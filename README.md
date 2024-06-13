@@ -31,3 +31,19 @@
 **Here in the next section we can select the country according to yourself ( We take the USA as an example ), and we can see the overall performance of their Athletes in the Olympics in a line graph format.**
 ![6_13_2024 3_11_41 PM](https://github.com/T-usharrr/Olympics-Analysis-Web-App/assets/115540350/613eab57-4940-4e71-a7d6-ef573d41eb11)
 
+**Here we provide the age distribution of the Athletes according to their Sports and we can compare the different data's together for the better Visualization and comparison. We can compare two or more than two Sports together as much as we want.**
+#
+![6_14_2024 1_23_48 AM](https://github.com/T-usharrr/Olympics-Analysis-Web-App/assets/115540350/8f338498-e270-43fa-8bf9-b96f52b9d901)
+![Screenshot (34)](https://github.com/T-usharrr/Olympics-Analysis-Web-App/assets/115540350/2b3aba0a-0d4d-4da1-ac0f-238311e286db)
+
+**Here we break down the Athletes data according to their Height or Weight of Athletes to find the insides from it, that Athletes who won the gold medals are come in which range of Height and Weight mostly.**
+#
+![Screenshot (36)](https://github.com/T-usharrr/Olympics-Analysis-Web-App/assets/115540350/52c46d45-d7cb-46f0-869a-e46ffd9150fe)
+
+**Here we can see the distribution of the Athletes data according to their Weight and Height in a form comparison of gender.** 
+#
+![Screenshot (37)](https://github.com/T-usharrr/Olympics-Analysis-Web-App/assets/115540350/7017f976-7e80-4b69-ae38-3270a061693a)
+
+**Here we can see the Participation of the different gender Athletes in the Summer Olympics over the Years.**
+#
+![Screenshot (38)](https://github.com/T-usharrr/Olympics-Analysis-Web-App/assets/115540350/f7833893-8443-40ab-99ee-9db2f9e93764)
